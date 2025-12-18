@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-09)
+## Unreleased (2025-12-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`30ac15d`](https://github.com/stdlib-js/stdlib/commit/30ac15d266224258d0f50599b43506b4745cf5c9) - **docs:** update return annotations to use ndarray instance notation for `stats/nanmin-by` [(#9195)](https://github.com/stdlib-js/stdlib/pull/9195) _(by Sachin Pangal)_
 -   [`01a7d5e`](https://github.com/stdlib-js/stdlib/commit/01a7d5eae3a7c6c244382ff2c2c00c19cc5acb68) - **docs:** add missing semicolons _(by Athan Reines)_
 -   [`006274e`](https://github.com/stdlib-js/stdlib/commit/006274e27badde01275e5daa80e8caeab301a787) - **test:** fix strides _(by Athan Reines)_
 -   [`32672ca`](https://github.com/stdlib-js/stdlib/commit/32672ca6f9c3e8ef435c456e49eebe190f36967a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
